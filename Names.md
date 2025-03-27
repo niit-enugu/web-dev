@@ -1,3 +1,3 @@
-# Sign your Name and email here
-e.g 1. john [email]() | [x](https://x.com/)
-1 Kelech Agwu [kalukelechi401@gmail.com]
+# Sign your Name and email here 
+e.g 1. John Doe [email](mailto:john@doe.com) | [x](https://x.com/johndoe)
+2. Kelechi Kalu [email](kalukelechi401@gmail.com)
